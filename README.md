@@ -3,9 +3,7 @@ CIS 1200 Game Project README
 PennKey: akashkau
 =:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
 
-===================
 =: Core Concepts :=
-===================
 
 - List the four core concepts, the features they implement, and why each feature
   is an appropriate use of the concept. Incorporate the feedback you got after
@@ -64,9 +62,7 @@ PennKey: akashkau
   use assertEquals and assertTrue appropriately and I have more than 5 tests, so I should get
   credit for this section.
 
-=========================
-=: Your Implementation :=
-=========================
+=: My Implementation :=
 
 - Provide an overview of each of the classes in your code, and what their
   function is in the overall game.
@@ -152,9 +148,7 @@ PennKey: akashkau
    process so I don't have to write the same code four times with slight variation.
 
 
-========================
 =: External Resources :=
-========================
 
 - Cite any external resources (images, tutorials, etc.) that you may have used 
   while implementing your game.
