@@ -1,7 +1,4 @@
-=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
-CIS 1200 Game Project README
-PennKey: akashkau
-=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=:=
+Fruity Snake
 
 =: Core Concepts :=
 
